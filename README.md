@@ -2,7 +2,9 @@
 
 ## Overview of the Analysis
 
-The purpose of this analysis is to use Tableau to present a business proposal for a bike-sharing company. A CSV file containing bikeshare data for the month of August was imported. Graphs and visualizations were stylized to portray relevant data accurately. Multiple worksheets were created and accumulated to create an effective story to present to future investors. 
+The purpose of this analysis is to use Tableau to present a business proposal for a bike-sharing company. A CSV file containing bikeshare data for the month of August was imported. Graphs and visualizations were stylized to portray relevant data accurately. Multiple worksheets were created and accumulated to create an effective story to present to future investors.
+
+[Link to Tableau Dashboard](https://public.tableau.com/app/profile/william.kim4690/viz/NYCCitiBikeAnalysis_16683846144940/NYCCitiBikeAnalysis?publish=yes)
 
 ## Results
 
@@ -37,3 +39,7 @@ The purpose of this analysis is to use Tableau to present a business proposal fo
 - Top Ending Locations
 
 ![Top Ending Locations](https://user-images.githubusercontent.com/88448731/201552859-f1d3f7c9-c464-4f3a-800d-137016127733.PNG)
+
+## Summary
+
+Based on the analysis performed for bikesharing in NYC, it is clear that most users are local male commuters with an average trip duration of 5 minutes. If the Des Moines project applies this statistic, multiple start and ending positions should be added that are within 5 minutes of each other. However, it is important to note that NYC is a large and fully developed urban city with a population of ~8.5 million while Des Moines only has ~210,000. This must be heavily considered and additional analysis should be completed to fully assess the viability of bikesharing in Des Moines. Additional information such as usage of bikes during winter months and use of public vs private transportation may be useful for this project.
